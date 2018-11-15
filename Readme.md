@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Data.cs](./CS/Data.cs) (VB: [Data.vb](./VB/Data.vb))
+* **[MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))**
+<!-- default file list end -->
 # How to: Generate Flow Layout Control Items from a Collection
 
 
