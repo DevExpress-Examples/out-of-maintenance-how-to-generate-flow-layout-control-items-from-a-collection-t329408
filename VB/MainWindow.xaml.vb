@@ -1,11 +1,12 @@
-﻿Imports DevExpress.Xpf.Core
+Imports DevExpress.Xpf.Core
 
 Namespace DXLayoutControlSample
-	Partial Public Class MainWindow
-		Inherits DXWindow
 
-		Public Sub New()
-			InitializeComponent()
-		End Sub
-	End Class
+    Public Partial Class MainWindow
+        Inherits DXWindow
+
+        Public Sub New()
+            Me.InitializeComponent()
+        End Sub
+    End Class
 End Namespace
